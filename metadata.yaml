@@ -1,0 +1,34 @@
+_repo: Huszonegy-novella_62111
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Biró, Lajos
+    alias: Biro, Lajos
+    birthdate: 1880
+    deathdate: 1948
+    gutenberg_agent_id: '51735'
+    url: http://www.gutenberg.org/2009/agents/51735
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/B%C3%ADr%C3%B3_Lajos_(%C3%ADr%C3%B3)
+    - https://en.wikipedia.org/wiki/Lajos_B%C3%ADr%C3%B3
+description: ''
+gutenberg_issued: '2020-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62111'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcc 'PH'
+- !lcsh 'Short stories, Hungarian'
+- GITenberg
+tableOfContents: Ilka -- A megrettent város -- A harmadik -- Szinészek -- Álmok --
+  Másodszor -- A jó ember és a rossz ember -- A lány előtt -- Kunszállás -- Szodoma
+  pusztulása -- Süket mélységek -- Levél Firenzébe -- A találkozás -- Tribun -- Az
+  ispánné -- A kegyelmes asszony -- Az unoka -- A Tisza -- Öt ezüst forint -- Az erős
+  -- A császár meghal.
+title: Huszonegy novella
+url: http://www.gutenberg.org/ebooks/62111
